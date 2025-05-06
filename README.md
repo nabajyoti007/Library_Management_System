@@ -1,1 +1,3 @@
 # Library_Management_System
+
+The Library Management System is a web-based application developed using PHP that allows users to perform basic CRUD (Create, Read, Update, Delete) operations for managing library resources. This system enables efficient handling of book records, including adding new books, updating existing entries, deleting records, and viewing book details. It also supports managing author and borrower information, making it suitable for small to medium-sized libraries. The backend is powered by MySQL, and the interface is built with basic HTML/CSS. This project is ideal for learning how to implement CRUD functionality in PHP and understanding database integration in web applications.
